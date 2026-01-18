@@ -105,6 +105,11 @@ name {
   font-size: 32px;
 }
 
+.chinese-name {
+  font-family: 'STXingkai', '华文行楷', cursive;
+  font-size: 1.0em;
+}
+
 .one {
   width: 160px;
   height: 160px;
